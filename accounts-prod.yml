@@ -1,0 +1,10 @@
+build:
+  version: "1.0"
+accounts:
+  message: "Welcome to EazyBank accounts related Prod APIs "
+  contactDetails:
+    name: "Kon Doe - Prod"
+    email: "kon@eazybank.com"
+  onCallSupport:
+    - (555) 555-7876
+    - (555) 523-0897
