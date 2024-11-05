@@ -1,7 +1,7 @@
 build:
   version: "1.0"
 loans:
-  message: "Welcome to EazyBank cards related QA APIs "
+  message: "Welcome to EazyBank cards related QA github APIs "
   contactDetails:
     name: "Kon Doe - Prod"
     email: "kon@eazybank.com"
