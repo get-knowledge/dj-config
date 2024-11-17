@@ -1,7 +1,7 @@
 build:
   version: "1.0"
 cards:
-  message: "Welcome to EazyBank cards related productioncard APIs "
+  message: "Welcome to EazyBank cards related prod APIs "
   contactDetails:
     name: "Kon Doe - Prod"
     email: "kon@eazybank.com"
